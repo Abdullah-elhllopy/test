@@ -19,7 +19,6 @@ const nextConfig = {
 
         return config;
     },
-    distDir: 'build',
     publicRuntimeConfig: {
         databaseFolderPath: '/database',
     },
