@@ -3,7 +3,7 @@ import Contact from '@/common/Contact/Contact';
 import About from '@/components/About/About';
 import OurClientSay from '@/components/About/OurClientSay';
 import TeamMembers from '@/components/About/TeamMembers';
-import WhyChooseUs from '@/components/About/whyChooseUs';
+import WhyChooseUs from '@/components/About/WhyChooseUs';
 import { getData } from '@/services/getData';
 import Head from 'next/head';
 import Loading from '../Loading';
