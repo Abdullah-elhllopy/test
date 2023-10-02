@@ -1,0 +1,165 @@
+{
+    "slider": [
+        {
+            "img": "/img/banner/slide-02.jpg",
+            "title": "Construction, since 1945.",
+            "des": "Build A Better World With Us.",
+            "buttons": [
+                {
+                    "name": "Get Started",
+                    "link": ""
+                },
+                {
+                    "name": "Read More",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "img": "/img/banner/slide-03.jpg",
+            "title": "Construction, since 1945.",
+            "des": "Provide Effective Solutions.",
+            "buttons": [
+                {
+                    "name": "Get Started",
+                    "link": ""
+                },
+                {
+                    "name": "Read More",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "img": "/img/banner/slide-01.jpg",
+            "title": "Construction, since 1945.",
+            "des": "Best Builders In The World.",
+            "buttons": [
+                {
+                    "name": "Get Started",
+                    "link": ""
+                },
+                {
+                    "name": "Read More",
+                    "link": ""
+                }
+            ]
+        }
+    ],
+    "about": {
+        "images": [
+            "/img/content/about2.jpg",
+            "/img/content/about1.jpg"
+        ],
+        "title": "About Us",
+        "head": "Providing full range of high services solution",
+        "des": "Team is a diverse network of consultants and industry professionals with a global mindset and a collaborative culture. We work to understand your issues and are driven to ask better questions.",
+        "certificates": [
+            {
+                "title": "Certified & Awards winner",
+                "img": "/img/icons/01.png"
+            },
+            {
+                "title": "Best Quality Service",
+                "img": "/img/icons/02.png"
+            }
+        ],
+        "card": {
+            "des": "Construction is exactly what our business has been lacking. Very easy to use.",
+            "img": "/img/icons/quote.png"
+        }
+    },
+    "services": {
+        "title": "What We Do",
+        "head": "Services That Help You Grow.",
+        "cards" :[
+            {
+                "cardIcon":"/img/icons/03.png",
+                "cardImage" :"/img/service/service-01.jpg",
+                "cardContent":{
+                    "cardTitle":"Apartment Design",
+                    "btn" :{
+                        "name" : "Read more",
+                        "link":""
+                    }
+                }
+            },
+            {
+                "cardIcon":"/img/icons/04.png",
+                "cardImage" :"/img/service/service-02.jpg",
+                "cardContent":{
+                    "cardTitle":"Expert Mechanical",
+                    "btn" :{
+                        "name" : "Read more",
+                        "link":""
+                    }
+                }
+            },
+            {
+                "cardIcon":"/img/icons/05.png",
+                "cardImage" :"/img/service/service-03.jpg",
+                "cardContent":{
+                    "cardTitle":"Architecture & Building",
+                    "btn" :{
+                        "name" : "Read more",
+                        "link":""
+                    }
+                }
+            }
+        ]
+    },
+    "projects":{
+        "title":"Recent Projects",
+        "head":"Our Special Projects",
+        "cards":[
+            {
+                "title" : "Commercial",
+                "img" : "/img/portfolio/01.jpg",
+                "btn" :{
+                    "name" : "MDZ Designs",
+                    "link":""
+                }
+            },
+            {
+                "title" : "Commercial",
+                "img" : "/img/portfolio/02.jpg",
+                "btn" :{
+                    "name" : "Membrane Structure",
+                    "link":""
+                }
+            },
+            {
+                "title" : "Architecture",
+                "img" : "/img/portfolio/03.jpg",
+                "btn" :{
+                    "name" : "Best Engineering",
+                    "link":""
+                }
+            },
+            {
+                "title" : "Planning",
+                "img" : "/img/portfolio/04.jpg",
+                "btn" :{
+                    "name" : "Market Research",
+                    "link":""
+                }
+            },
+            {
+                "title" : "Architects",
+                "img" : "/img/portfolio/05.jpg",
+                "btn" :{
+                    "name" : "Whitney Architecture",
+                    "link":""
+                }
+            }
+        ]
+    },
+    "partners":[
+        "/img/clients/01.png",
+        "/img/clients/02.png",
+        "/img/clients/03.png",
+        "/img/clients/04.png",
+        "/img/clients/05.png",
+        "/img/clients/06.png"
+    ]
+}

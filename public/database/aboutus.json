@@ -1,0 +1,202 @@
+{
+    "about": {
+        "title": "About Us",
+        "head": "Providing full range of high services solution",
+        "desc": "Team is a diverse network of consultants and industry professionals with a global mindset and a collaborative culture.",
+        "provide": {
+            "img": "/img/icons/02.png",
+            "desc": "We provide the most reasonable cost and best services."
+        },
+        "workFields": [
+            [
+                "Quality control system",
+                "Best ever plan"
+            ],
+            [
+                "Client free service",
+                "Finish work before deadline"
+            ]
+        ],
+        "sign_img": "/img/content/sign.png"
+    },
+    "whyChooseUs": {
+        "title": "Why Choose Us",
+        "head": "Reason for people choosing Archic",
+        "link": "https://www.youtube.com/watch?v=x4dEfxj_Ttk",
+        "workFields": [
+            {
+                "title": "Modern Technology",
+                "img": "/img/icons/13.png"
+            },
+            {
+                "title": "Tiling & Painiting",
+                "img": "/img/icons/14.png"
+            },
+            {
+                "title": "Financial Consulting",
+                "img": "/img/icons/15.png"
+            },
+            {
+                "title": "Expert Engineer",
+                "img": "/img/icons/16.png"
+            },
+            {
+                "title": "Best Quality",
+                "img": "/img/icons/02.png"
+            },
+            {
+                "title": "Awards winner",
+                "img": "/img/icons/01.png"
+            }
+        ]
+    },
+    "workProcess": {
+        "title": "Work Process",
+        "head": "Our Working Process",
+        "steps": [
+            {
+                "title": "Client Needs",
+                "icon": "img/icons/17.png"
+            },
+            {
+                "title": "Planning Design",
+                "icon": "img/icons/18.png"
+            },
+            {
+                "title": "Architect Sketch",
+                "icon": "img/icons/19.png"
+            },
+            {
+                "title": "Start Bulding",
+                "icon": "img/icons/20.png"
+            }
+        ]
+    },
+    "reviews": {
+        "title": "Testimonial",
+        "head": "What our clients say",
+        "reviewsUsers": [
+            {
+                "name": "Alexander Sleigh",
+                "img": "img/avatars/avatar-04.jpg",
+                "small": "CEO & Founder",
+                "description": "I have gotten at least 50 times the value from construction. It really saves me time and effort. Construction did exactly what you said it does."
+            },
+            {
+                "name": "Nate Disher",
+                "img": "img/avatars/avatar-05.jpg",
+                "small": "Marketing Manager",
+                "description": "I would be lost without construction. I STRONGLY recommend construction to everyone interested in running a successful business! Iam good to go."
+            },
+            {
+                "name": "Eliza Dadswell",
+                "img": "img/avatars/avatar-06.jpg",
+                "small": "Business Manager",
+                "description": "I wish I would have thought of it first. I dont know what else to say. Just what I was looking for. Buy this now. Just what I was looking for."
+            }
+        ]
+    },
+    "teamMembers": {
+        "title": "Team Members",
+        "head": "Our Expert Team",
+        "members":[
+            {
+                "name":"Kiara Magarey",
+                "jobTitle":"Architectural Inspector",
+                "profileImg":"img/team/team-01.jpg",
+                "links":[
+                    {
+                        "class":"fa-facebook-f",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-twitter",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-youtube",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-linkedin-in",
+                        "link":""
+                    }
+                    
+                ]
+            },
+            {
+                "name":"George Skertchly",
+                "jobTitle":"Electrician Supervisor",
+                "profileImg":"img/team/team-02.jpg",
+                "links":[
+                    {
+                        "class":"fa-facebook-f",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-twitter",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-youtube",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-linkedin-in",
+                        "link":""
+                    }
+                    
+                ]
+            }
+            ,
+            {
+                "name":"David Huish",
+                "jobTitle":"Electrician Supervisor",
+                "profileImg":"img/team/team-03.jpg",
+                "links":[
+                    {
+                        "class":"fa-facebook-f",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-twitter",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-youtube",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-linkedin-in",
+                        "link":""
+                    }
+                    
+                ]
+            },
+            {
+                "name":"David Huish",
+                "jobTitle":"Plumbing Inspector",
+                "profileImg":"img/team/team-04.jpg",
+                "links":[
+                    {
+                        "class":"fa-facebook-f",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-twitter",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-youtube",
+                        "link":""
+                    },
+                    {
+                        "class":"fa-linkedin-in",
+                        "link":""
+                    }
+                    
+                ]
+            }
+        ]
+    }
+}
